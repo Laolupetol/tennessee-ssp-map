@@ -1,0 +1,22 @@
+{
+  "1783693640259.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1783693640259.png",
+    "properties": {
+      "filename": "1783693640259.png",
+      "originalName": "basemap-svgrepo-com.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1783693640259.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1783694662640.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1783694662640.png",
+    "properties": {
+      "filename": "1783694662640.png",
+      "originalName": "Gemini_Generated_Image_27xqc227xqc227xq.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1783694662640.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}

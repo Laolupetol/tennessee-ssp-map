@@ -1,0 +1,20 @@
+{
+  "name": "tn-map-constraint",
+  "label": "Tennessee Map Constraint",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "Custom",
+  "description": "Restricts map navigation to Tennessee.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dependency": "jimu-arcgis",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 200,
+    "height": 100
+  },
+  "properties": {}
+}
